@@ -1,3 +1,4 @@
+#Markdown-Cheatsheet
 
 Note that there is also a [Cheatsheet specific to Markdown Here](./Markdown-Here-Cheatsheet) if that's what you're looking for.
 
@@ -403,7 +404,3 @@ Or, in pure Markdown, but losing the image sizing and border:
 ```no-highlight
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 ```
-
-Referencing a bug by #bugID in your git commit links it to the slip. For example #1. 
-
----
